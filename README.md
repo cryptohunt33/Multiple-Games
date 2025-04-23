@@ -4,7 +4,7 @@
 
 A "Multiple Games Executor" refers to Roblox exploiting tools (executors) that *claim* to be compatible with *multiple* Roblox games, rather than being specifically designed for a single game. These executors aim to inject custom scripts across different Roblox experiences.
 
-
+## [Download solara]()
 
 **Important Note:** The functionality and safety of such executors are highly questionable. Roblox's anti-cheat measures (Byfron) constantly evolve, making it difficult for executors to remain functional. Furthermore, executors claiming to work across *multiple* games are often less reliable and potentially more dangerous than those designed for specific games.
 
